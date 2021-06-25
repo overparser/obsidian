@@ -14,4 +14,4 @@ Interface Segregation Principle — Принцип разделения инте
 
 > В некоторых случаях клиенты могут использовать и нуждаться в нескольких интерфейсах, и это совершенно нормально, пока они используют все методы всех интерфейсов, от которых зависят.
 
-[[S.O.L.I.D]] [[Interface Segregation Principle CODE]]
+[[S.O.L.I.D]] [[Interface Segregation Principle CODE]] [[интерфейс]]

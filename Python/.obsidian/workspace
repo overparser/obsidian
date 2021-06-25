@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "3d4a908cf1218c28",
+        "id": "31a0d2ce84c6a493",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Dependecy Inversion Principle CODE.md",
-            "mode": "preview"
+            "file": "Untitled.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dependecy Inversion Principle CODE.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,19 +83,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 100
+    "width": 522
   },
-  "active": "3d4a908cf1218c28",
+  "active": "31a0d2ce84c6a493",
   "lastOpenFiles": [
-    "Dependecy Inversion Principle CODE.md",
     "Untitled.md",
-    "Dependecy Inversion Principle.md",
-    "S.O.L.I.D/Interface Segregation Principle CODE.md",
-    "Interface Segregation Principle CODE.md",
-    "Interface Segregation Principle.md",
-    "S.O.L.I.D/Liskov Substitution Principle CODE.md",
-    "интерфейс.md",
-    "S.O.L.I.D/Open-Closed Principle CODE.md",
-    "Open-Closed Principle CODE.md"
+    "паттерны/Структурные паттерны.md",
+    "паттерны/Типы паттернов.md",
+    "паттерны/Структурный паттерн.md",
+    "паттерны/Порождающий паттерн.md",
+    "Порождающие паттерны.md",
+    "Порождающий паттерн.md",
+    "паттерны/фасад uml.md",
+    "S.O.L.I.D/Dependecy Inversion Principle.md",
+    "паттерны/интерфейс.md"
   ]
 }
